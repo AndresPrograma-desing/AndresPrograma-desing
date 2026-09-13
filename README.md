@@ -18,7 +18,6 @@
 Construyo soluciones web de extremo a extremo — desde la interfaz hasta el backend — y disfruto convertir problemas reales de mi día a día en aplicaciones que realmente uso. Aprendiendo algo nuevo cada semana.
 
 - 🐾 Desarrollé un **sistema de gestión para una veterinaria**, digitalizando y optimizando sus procesos administrativos
-- 🧩 Construí una **librería propia en React + CSS** para acelerar el desarrollo de mis proyectos personales
 
 <br>
 
@@ -26,9 +25,9 @@ Construyo soluciones web de extremo a extremo — desde la interfaz hasta el bac
 
 <table>
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="270">
       <a href="https://anubis-atm-web.vercel.app/" target="_blank">
-        <img src="https://image.thum.io/get/width/500/crop/350/noanimate/https://anubis-atm-web.vercel.app/" width="280" style="border-radius:10px" alt="Anubis.atm preview" />
+        <img src="https://image.thum.io/get/width/500/crop/350/noanimate/https://anubis-atm-web.vercel.app/" width="250" style="border-radius:10px" alt="Anubis.atm preview" />
       </a>
       <br><br>
       <b>Anubis.atm</b>
@@ -39,9 +38,9 @@ Construyo soluciones web de extremo a extremo — desde la interfaz hasta el bac
         <img src="https://img.shields.io/badge/Visitar-1DB954?style=for-the-badge&logo=vercel&logoColor=white" alt="visitar Anubis" />
       </a>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="270">
       <a href="https://context-hub-memory.vercel.app/" target="_blank">
-        <img src="https://image.thum.io/get/width/500/crop/350/noanimate/https://context-hub-memory.vercel.app/" width="280" style="border-radius:10px" alt="ContextHub preview" />
+        <img src="https://image.thum.io/get/width/500/crop/350/noanimate/https://context-hub-memory.vercel.app/" width="250" style="border-radius:10px" alt="ContextHub preview" />
       </a>
       <br><br>
       <b>ContextHub</b>
@@ -50,6 +49,19 @@ Construyo soluciones web de extremo a extremo — desde la interfaz hasta el bac
       <br><br>
       <a href="https://context-hub-memory.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Visitar-D4AF37?style=for-the-badge&logo=vercel&logoColor=white" alt="visitar ContextHub" />
+      </a>
+    </td>
+    <td align="center" width="270">
+      <a href="https://github.com/AndresPrograma-desing/AnteriorityUI" target="_blank">
+        <img src="https://raw.githubusercontent.com/AndresPrograma-desing/AnteriorityUI/main/assets/favicon/anteriorityUI.ico" width="90" height="90" style="border-radius:10px" alt="AnteriorityUI icon" />
+      </a>
+      <br><br>
+      <b>AnteriorityUI</b>
+      <br>
+      <sub>Librería propia de +50 componentes React (MUI + Storybook)</sub>
+      <br><br>
+      <a href="https://github.com/AndresPrograma-desing/AnteriorityUI" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_repo-24292F?style=for-the-badge&logo=github&logoColor=white" alt="ver repo AnteriorityUI" />
       </a>
     </td>
   </tr>
@@ -80,11 +92,11 @@ Construyo soluciones web de extremo a extremo — desde la interfaz hasta el bac
 
 ### 📊 Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresPrograma-desing&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1DB954&icon_color=D4AF37&text_color=c9d1d9" height="165" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresPrograma-desing&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1DB954&text_color=c9d1d9" height="165" alt="top languages" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AndresPrograma-desing?style=for-the-badge&color=1DB954&labelColor=0d1117&logoColor=white" alt="followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AndresPrograma-desing&label=Repos%20p%C3%BAblicos&query=public_repos&color=D4AF37&style=for-the-badge&labelColor=0d1117" alt="public repos" />
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AndresPrograma-desing&style=for-the-badge&color=1DB954&label=Visitas+al+perfil" alt="profile views" />
-</div>
+</p>
