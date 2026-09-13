@@ -27,12 +27,15 @@ Construyo soluciones web de extremo a extremo — desde la interfaz hasta el bac
   <tr>
     <td align="center" width="270">
       <a href="https://anubis-atm-web.vercel.app/" target="_blank">
-        <img src="https://image.thum.io/get/width/500/crop/350/noanimate/https://anubis-atm-web.vercel.app/" width="250" style="border-radius:10px" alt="Anubis.atm preview" />
+        <svg width="260" height="150" viewBox="0 0 260 150" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0" y="0" width="260" height="150" rx="14" fill="#0d1117" stroke="#1DB954" stroke-width="1.5"/>
+          <rect x="0" y="0" width="6" height="150" rx="3" fill="#1DB954"/>
+          <circle cx="45" cy="55" r="20" fill="none" stroke="#1DB954" stroke-width="2.5"/>
+          <text x="45" y="62" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1DB954" text-anchor="middle">$</text>
+          <text x="30" y="105" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#ffffff">Anubis.atm</text>
+          <text x="30" y="126" font-family="Arial, sans-serif" font-size="11" fill="#8b949e">Control de gastos sin complicaciones</text>
+        </svg>
       </a>
-      <br><br>
-      <b>Anubis.atm</b>
-      <br>
-      <sub>Control de gastos sin complicaciones</sub>
       <br><br>
       <a href="https://anubis-atm-web.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Visitar-1DB954?style=for-the-badge&logo=vercel&logoColor=white" alt="visitar Anubis" />
@@ -40,12 +43,17 @@ Construyo soluciones web de extremo a extremo — desde la interfaz hasta el bac
     </td>
     <td align="center" width="270">
       <a href="https://context-hub-memory.vercel.app/" target="_blank">
-        <img src="https://image.thum.io/get/width/500/crop/350/noanimate/https://context-hub-memory.vercel.app/" width="250" style="border-radius:10px" alt="ContextHub preview" />
+        <svg width="260" height="150" viewBox="0 0 260 150" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0" y="0" width="260" height="150" rx="14" fill="#0d1117" stroke="#D4AF37" stroke-width="1.5"/>
+          <rect x="0" y="0" width="6" height="150" rx="3" fill="#D4AF37"/>
+          <rect x="30" y="38" width="30" height="36" rx="3" fill="none" stroke="#D4AF37" stroke-width="2.5"/>
+          <line x1="37" y1="48" x2="53" y2="48" stroke="#D4AF37" stroke-width="2"/>
+          <line x1="37" y1="56" x2="53" y2="56" stroke="#D4AF37" stroke-width="2"/>
+          <line x1="37" y1="64" x2="47" y2="64" stroke="#D4AF37" stroke-width="2"/>
+          <text x="30" y="105" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#ffffff">ContextHub</text>
+          <text x="30" y="126" font-family="Arial, sans-serif" font-size="11" fill="#8b949e">Gestión de notas y tareas</text>
+        </svg>
       </a>
-      <br><br>
-      <b>ContextHub</b>
-      <br>
-      <sub>Gestión de notas y tareas</sub>
       <br><br>
       <a href="https://context-hub-memory.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Visitar-D4AF37?style=for-the-badge&logo=vercel&logoColor=white" alt="visitar ContextHub" />
@@ -53,12 +61,17 @@ Construyo soluciones web de extremo a extremo — desde la interfaz hasta el bac
     </td>
     <td align="center" width="270">
       <a href="https://github.com/AndresPrograma-desing/AnteriorityUI" target="_blank">
-        <img src="https://raw.githubusercontent.com/AndresPrograma-desing/AnteriorityUI/main/assets/favicon/anteriorityUI.ico" width="90" height="90" style="border-radius:10px" alt="AnteriorityUI icon" />
+        <svg width="260" height="150" viewBox="0 0 260 150" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0" y="0" width="260" height="150" rx="14" fill="#0d1117" stroke="#2dd4bf" stroke-width="1.5"/>
+          <rect x="0" y="0" width="6" height="150" rx="3" fill="#2dd4bf"/>
+          <rect x="30" y="40" width="14" height="14" rx="3" fill="#2dd4bf"/>
+          <rect x="48" y="40" width="14" height="14" rx="3" fill="none" stroke="#2dd4bf" stroke-width="2"/>
+          <rect x="30" y="58" width="14" height="14" rx="3" fill="none" stroke="#2dd4bf" stroke-width="2"/>
+          <rect x="48" y="58" width="14" height="14" rx="3" fill="#2dd4bf"/>
+          <text x="30" y="105" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#ffffff">AnteriorityUI</text>
+          <text x="30" y="126" font-family="Arial, sans-serif" font-size="11" fill="#8b949e">+50 componentes React (MUI)</text>
+        </svg>
       </a>
-      <br><br>
-      <b>AnteriorityUI</b>
-      <br>
-      <sub>Librería propia de +50 componentes React (MUI + Storybook)</sub>
       <br><br>
       <a href="https://github.com/AndresPrograma-desing/AnteriorityUI" target="_blank">
         <img src="https://img.shields.io/badge/Ver_repo-24292F?style=for-the-badge&logo=github&logoColor=white" alt="ver repo AnteriorityUI" />
