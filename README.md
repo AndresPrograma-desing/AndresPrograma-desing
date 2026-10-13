@@ -73,7 +73,7 @@ Construyo soluciones web de extremo a extremo — desde la interfaz hasta el bac
         </svg>
       </a>
       <br><br>
-      <a href="https://context-hub-memory.vercel.app/" target="_blank">
+      <a href="https://github.com/AndresPrograma-desing/Front-template" target="_blank">
         <img src="https://img.shields.io/badge/Visitar-0235B8?style=for-the-badge&logo=react&logoColor=white" alt="visitar proyecto" />
       </a>
     </td>
