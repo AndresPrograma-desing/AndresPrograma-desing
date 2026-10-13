@@ -59,6 +59,24 @@ Construyo soluciones web de extremo a extremo — desde la interfaz hasta el bac
         <img src="https://img.shields.io/badge/Visitar-D4AF37?style=for-the-badge&logo=vercel&logoColor=white" alt="visitar ContextHub" />
       </a>
     </td>
+        <td align="center" width="270">
+      <a href="https://github.com/AndresPrograma-desing/Front-template" target="_blank">
+        <svg width="260" height="150" viewBox="0 0 260 150" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0" y="0" width="260" height="150" rx="14" fill="#0d1117" stroke="#D4AF37" stroke-width="1.5"/>
+          <rect x="0" y="0" width="6" height="150" rx="3" fill="#D4AF37"/>
+          <rect x="30" y="38" width="30" height="36" rx="3" fill="none" stroke="#D4AF37" stroke-width="2.5"/>
+          <line x1="37" y1="48" x2="53" y2="48" stroke="#D4AF37" stroke-width="2"/>
+          <line x1="37" y1="56" x2="53" y2="56" stroke="#D4AF37" stroke-width="2"/>
+          <line x1="37" y1="64" x2="47" y2="64" stroke="#D4AF37" stroke-width="2"/>
+          <text x="30" y="105" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#ffffff">dev-template</text>
+          <text x="30" y="126" font-family="Arial, sans-serif" font-size="11" fill="#8b949e">Gestión de notas y tareas</text>
+        </svg>
+      </a>
+      <br><br>
+      <a href="https://context-hub-memory.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Visitar-D4AF37?style=for-the-badge&logo=react&logoColor=white" alt="visitar proyecto" />
+      </a>
+    </td>
     <td align="center" width="270">
       <a href="https://github.com/AndresPrograma-desing/AnteriorityUI" target="_blank">
         <svg width="260" height="150" viewBox="0 0 260 150" xmlns="http://www.w3.org/2000/svg">
